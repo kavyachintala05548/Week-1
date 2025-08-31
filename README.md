@@ -1,5 +1,8 @@
 # Week-1
 Title: Heavy Metal Contamination Prediction in Soil  
+
 Description: Predict soil safety using heavy metal levels (Pb, Hg, As, Cd, Cr). ML models like Random Forest or XGBoost classify soil as Safe or Contaminated, helping farmers and agencies monitor pollution, ensure safe agriculture, and protect public health and the environment.This project focuses on predicting whether a soil sample is safe or contaminated based on its chemical composition, including levels of heavy metals such as Lead (Pb), Mercury (Hg), Arsenic (As), Cadmium (Cd), and Chromium (Cr). Heavy metal contamination in soil poses serious risks to agriculture, food safety, and public health. Using Machine Learning models like Random Forest, Logistic Regression, or XGBoost, we can classify soil samples accurately and help farmers, environmental agencies, and policymakers take timely preventive measures.
+
 Objective: Collect soil samples dataset containing heavy metal concentrations. Preprocess data for cleaning and feature engineering. Train ML models to classify soil as Safe or Contaminated. Evaluate model accuracy and deploy a simple prediction tool/dashboard. 
+
 Impact: Ensures safer agricultural practices. Helps identify polluted regions for remediation.
